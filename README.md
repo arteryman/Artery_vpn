@@ -25,6 +25,8 @@
 
 8.با دستور "پنل" میتونید شخصی سازی کنید
 
+"نمونه ران شده  @Arteryvpn_bot"
+
 
 
 ## [Arterycode](https://t.me/Artery_code)
